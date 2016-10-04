@@ -40,4 +40,4 @@ This test must be sent via email in a ZIP format. It is going to be uncompressed
 
 1. Use a template engine like Handlebars to create HTML.
 1. Use ReactJS to model this app.
-1. Code all the functionality in a functional way.
+1. Code all the app in a functional way.
