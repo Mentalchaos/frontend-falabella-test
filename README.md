@@ -14,6 +14,8 @@ https://dl.dropboxusercontent.com/u/18850435/frontend-test.webm
 - Only photos greater than 300px height are allowed.
 - Just photos with a width greater than their height should be shown.
 - The difference between width and height must not be greater than 250 pixels.(A square like photo is a lot better than a rectangle)
+- If you press ENTER key while you are inside search term input, it must trigger the AJAX call.
+- If you click on an image it should open a new tab showing you the refer URL(that URL is provided in the json response).
 - **To filter photos by width or height you must use javascript, not via API**.
 - **The code must be written in english**
 

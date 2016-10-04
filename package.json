@@ -4,7 +4,7 @@
   "description": "just a test for javascript developers",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -p 3000 -o -c-1"
+    "start": "http-server -p 3000 -c-1"
   },
   "repository": {
     "type": "git",
