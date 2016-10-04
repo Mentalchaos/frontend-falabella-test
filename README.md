@@ -13,6 +13,7 @@ https://dl.dropboxusercontent.com/u/18850435/frontend-test.webm
 - Just photos with a width greater than their height should be shown.
 - The difference between width and height must not be greater than 250 pixels.(A square like photo is a lot better than a rectangle)
 - **To filter photos by width or height you must use javascript, not via API**.
+- **The code must be written in english**
 
 You can use this docs for further explanation about this API.
 
