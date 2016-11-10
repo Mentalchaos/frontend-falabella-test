@@ -37,7 +37,9 @@ $ npm run start
 ```
 
 
-This test must be sent via email in a ZIP format. It is going to be uncompressed and tested(**after installing any dependencies that you might have declared in package.json**).
+This test must be sent via **[weTransfer]**(https://wetransfer.com/) in a ZIP format, wetransfer method must be a shared URL. It is going to be uncompressed and tested(**after installing any dependencies that you might have declared in package.json**).
+
+
 
 
 ### Bonus points:
