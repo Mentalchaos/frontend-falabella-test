@@ -36,10 +36,16 @@ $ npm install
 $ npm run start
 ```
 
-
 This test must be sent via **[WETRANSFER](https://wetransfer.com/)** in a ZIP format, wetransfer method must be a shared URL. It is going to be uncompressed and tested(**after installing any dependencies that you might have declared in package.json**).
 
+The libraries you can use to code this app should be these ones:
 
+- jQuery
+- React.js
+- Vue.js
+- Handlebars
+
+It is highly recommended to only use these mentioned libraries. However, if you would like to use something different than those ones, you must add a new file named reason.txt adding why you are using that library/framework and why do you think it's useful to use it.
 
 
 ### Bonus points:
