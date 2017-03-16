@@ -2,7 +2,7 @@
 
 It's required to make an app like this one, a pixabay search term photo finder like the video below
 
-https://dl.dropboxusercontent.com/u/18850435/frontend-test.webm
+https://www.dropbox.com/s/wnohssslxwtca5x/frontend-test.webm
 
 (You can watch this video using a webm player or using google chrome)
 
